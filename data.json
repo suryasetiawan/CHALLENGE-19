@@ -1,0 +1,44 @@
+[
+   {
+      "string": "tidur",
+      "integer": "21",
+      "float": "21,7",
+      "date": "2017-06-01",
+      "boolean": "TRUE"
+   },
+   {
+      "string": "main bola",
+      "integer": "4124",
+      "float": "945,34",
+      "date": "2017-06-01",
+      "boolean": "true"
+   },
+   {
+      "string": "",
+      "integer": "",
+      "float": "",
+      "date": "",
+      "boolean": "true"
+   },
+   {
+      "string": "makan",
+      "integer": "0",
+      "float": "5",
+      "date": "2019-02-01",
+      "boolean": "true"
+   },
+   {
+      "string": "minum",
+      "integer": "minum",
+      "float": "945,34",
+      "date": "2018-12-12",
+      "boolean": "true"
+   },
+   {
+      "string": "",
+      "integer": "",
+      "float": "",
+      "date": "",
+      "boolean": "true"
+   }
+]
